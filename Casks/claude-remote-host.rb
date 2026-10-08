@@ -1,6 +1,6 @@
 cask "claude-remote-host" do
-  version "1.5.0"
-  sha256 "ca5a10fc6a1c9fddacf18757a5318ae214cf9c7afe6aa446ae2c3be970cb0bd2"
+  version "1.6.0"
+  sha256 "493e78d387b26811ce801ae04cfe118098f1cd33d5620140771c3c874d4848cc"
 
   url "https://github.com/maxches99/claude-client/releases/download/v#{version}/ClaudeRemote-Host.zip"
   name "ClaudeRemote Host"
